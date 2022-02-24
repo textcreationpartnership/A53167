@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Observations on a late scandalous paper reflecting on the admiralty, &amp;c. Said to be written by an English sailer. Humbly offer'd by one who is not a sailer, tho' of long service in the Navy.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53167</idno>
+            <idno type="STC">Wing O100A</idno>
+            <idno type="STC">ESTC R217854</idno>
+            <idno type="EEBO-CITATION">99829497</idno>
+            <idno type="PROQUEST">99829497</idno>
+            <idno type="VID">33937</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53167)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33937)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1995:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Observations on a late scandalous paper reflecting on the admiralty, &amp;c. Said to be written by an English sailer. Humbly offer'd by one who is not a sailer, tho' of long service in the Navy.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Published by John Nutt near Stationers-Hall,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Caption title on p. 3 reads: Observations on a scandalous paper, containing (among other things) several reflections on the admiralty.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Royal Navy --  Early works to 1800.</term>
+               <term>State of the Navy --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33937:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 19 -->
+            <p>OBSERVATIONS ON A LATE <hi>Scandalous Paper</hi> Reflecting on the Admiralty, &amp;c.</p>
+            <p>Said to be written By an <hi>ENGLISH</hi> Sailer.</p>
+            <p>
+               <hi>Humbly Offer'd by one who is not a</hi> Sailer, <hi>tho' of long</hi> Service <hi>in the</hi> NAVY.</p>
+            <p>Publiſhed by <hi>John Nutt</hi> near <hi>Stationers-Hall,</hi> 1699.</p>
+            <pb facs="tcp:33937:2"/>
+            <!-- PDF PAGE 20 -->
+            <pb facs="tcp:33937:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 20 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:33937:3"/>
+            <!-- PDF PAGE 21 -->
+            <pb n="3" facs="tcp:33937:3"/>
+            <!-- PDF PAGE 21 -->
+            <head>OBSERVATIONS ON A <hi>Scandalous Paper,</hi> Containing (among other Things) Several <hi>Reflections</hi> on the <hi>Admiralty.</hi>
+            </head>
+            <p>THO' I have not hitherto thrown away much Time, in Peruſing the many ill-natured Pam<g ref="char:EOLhyphen"/>phlets that have lurked about the Town; yet have I, with more than ordinary Obſer<g ref="char:EOLhyphen"/>vation, read over a Book juſt crept out among the Croud, on which is beſtowed the Title of, <hi>The State of the Navy, &amp;c.</hi>
+            </p>
+            <pb n="4" facs="tcp:33937:4"/>
+            <!-- PDF PAGE 22 -->
+            <p>As to its Author's Reflections, on thoſe Gentlemen who are intruſted with the Management of the Offices of the <hi>Navy</hi> and <hi>Victualling,</hi> I ſhall leave it to ſuch of them (if any) who have for a long time ſucked in the Sweerneſs of thoſe Employments, to perform that bitter Task, of making the Brightneſs of their Integrity ſhine, through the many Clouds this Gentle<g ref="char:EOLhyphen"/>man has drawn over them; and ſhall only confine my ſhort Diſcourſe to what he lays to the Charge of the <hi>Admiralty;</hi> in which Office, thô I have not been parti<g ref="char:EOLhyphen"/>cularly concerned, yet have I not been wanting, in ſome meaſure, to inform my ſelf of the Nature thereof, and am not wholly a Stranger, to the ill Treatment thoſe Gentlemen daily receive, notwithſtanding the Ser<g ref="char:EOLhyphen"/>vices they have done their Country during the Fatigue of the late War.</p>
+            <p>This ingenuous Author, at his firſt attacking them, does peremptorily affirm, That the Miſmanagements of the Offices of the <hi>Navy</hi> and <hi>Victualling,</hi> proceed from the ill Conduct of this ſingle One, the <hi>Admiralty,</hi> which he terms their <hi>Fountain;</hi> without conſidering, that the Pureſt Waters, when they once entangle them<g ref="char:EOLhyphen"/>ſelves with other Channels, that they muſt unavoidably fall into, ſeldom fail, by ſuch Conjunction, of loſing great part of their Original Virtue; thô what remains in the Fountain, keeps its Purity.</p>
+            <p>From what Fountain this Gentleman has derived his Knowledge, I cannot judge; but 'tis ſomewhat apparent, that if once it had good Qualities in it, it has now had the ill Fortune to mingle with a Pool of <hi>Troubled Waters.</hi>
+            </p>
+            <p>I can hardly be Maſter of ſo much ill Nature, as to put him in Mind of one Obſervation of his on
+<pb n="5" facs="tcp:33937:4"/>
+               <!-- PDF PAGE 22 -->
+               <hi>Solomon</hi> and <hi>Hiram</hi>'s Navies, leſt being thereby led to reflect on it, he ſhould at laſt diſcover himſelf to be a greater Ape, than any he ſays were contain'd in thoſe Noble Machines; for what Notion this Canting Gen<g ref="char:EOLhyphen"/>tleman can have of the Oeconomy then in Practice, for the Preſerving and Well-employing the Invincible Armada's of thoſe Princes; or what ſort of Ship<g ref="char:EOLhyphen"/>men they were, whoſe Experience in Sea-Affairs, En<g ref="char:EOLhyphen"/>tituled them to the Conduct of them, I am altoge<g ref="char:EOLhyphen"/>ther a Stranger to; though I am apt to believe, his Ignorance in that, and the preſent Diſcipline of our Navy, run Parallel one with the other; other<g ref="char:EOLhyphen"/>wiſe, he would have found out more proper Perſons for the carrying on ſo great and intricate a Buſineſs, than a Number of Old Females, Inhabiting a Place, from whence, 'tis more than probable, he gather'd the ſcatter'd Fragments which he has maliciouſly ta<g ref="char:EOLhyphen"/>ken the trouble of jumbling together.</p>
+            <p>I find this Gentleman's Stomach too Squeemiſh, to admit of any one's being Qualified to ſit at the <hi>Admiralty-Board,</hi> but a Sea-Man; for to that intent he Quotes the Sea-Commanders of <hi>Solomon;</hi> a Prince, whoſe Country, I am apt to believe, afforded but little choice of that kind. But if my Author had taken the trouble, to have informed himſelf a Little (for Much I doubt he'l never know with greateſt Application) of the Conſtitution and Buſineſs of the <hi>Office of High-Admiral of England,</hi> he would have agreed with me, That Perſons knowing in other Matters, as well as Sea<g ref="char:EOLhyphen"/>manſhip, are abſolutely Neceſſary to carry on ſo in<g ref="char:EOLhyphen"/>tricate an Affair: But ſince his want of Enquiry, ren<g ref="char:EOLhyphen"/>ders him altogether a Stranger to this, I cannot judge him in the leaſt capable to diſcover, wherein the Gen<g ref="char:EOLhyphen"/>tlemen
+<pb n="6" facs="tcp:33937:5"/>
+               <!-- PDF PAGE 23 -->who now Compoſe that Board, are wanting, either in Qualifications or Inclination, to ſerve their Country; but do rather ſuſpect, that he has induſtri<g ref="char:EOLhyphen"/>ouſly gathered his Scandalous Reproaches from Per<g ref="char:EOLhyphen"/>ſons who have thought themſelves Diſobliged, or whoſe uneaſie Tempers, like his own, induce them to fly in the Faces of others, chiefly for the ſake of Miſ<g ref="char:EOLhyphen"/>chief, and not with the leaſt intent of Benefit to their Country: And if I gueſs right, this is not the firſt time the Pen of my Antagoniſt has been dipp'd in Gall.</p>
+            <p>In another Place he takes Pains to inſinuate his own mighty Apprehenſions, That the truſting the Affairs of the <hi>Royal Navy</hi> any longer in the preſent Hands, may be of Fatal Conſequence, in regard they may embarraſs the <hi>Naval Affairs,</hi> and retard the Enterprizes thereof, by ordering Squadrons and Cruizers in ſuch Stations where they cannot be Serviceable; but ſure I am, he cannot be<g ref="char:EOLhyphen"/>lieve, (unleſs he is an Original of down-right Folly) that theſe Gentlemen will ſo little regard even their own Safety, as wilfully to do what may prejudice their Country; whereas others, (whoever they be that ſuc<g ref="char:EOLhyphen"/>ceed) for want of the Experience which a Nine Years War, and an Induſtrious Application, muſt give, (thô otherwiſe Perſons of greateſt Probity) may unadviſedly fall into ſuch Errors as my Author mentions. Beſides, Are not the future Actions of theſe Gentlemen, as lia<g ref="char:EOLhyphen"/>ble as any others, to paſs the ſtricteſt Scrutiny of that Great and Wiſe Aſſembly which our Country has made choice of? Theſe Things weighed together, wherein does appear the Advantage a Change will introduce; unleſs the worthy Gentleman, with whom I am now in Conteſt, be ſilenced with the Offer of the Chair? His Qualifications, for which I did vainly hope to find in
+<pb n="7" facs="tcp:33937:5"/>
+               <!-- PDF PAGE 23 -->the Body of his Book, ſince on the outſide he borrows the Name of a Sayler.</p>
+            <p>However, I find he would have them out, Right or Wrong, becauſe they have been ſo long In; as if the length of a Man's Service to his Country and Prince, Renders him Guilty of an unpardonable Crime: But then I hope he will be-friend his Country, by Nominating a Set of thoſe un-erring Gentlemen he has in his Eye, to Fill their Places. For my own part, I cannot think a Thouſand Pounds a Year, is ſo very Tempting, (eſpecially, where a Man has a Competency of his own to afford him Bread) as to Induce many Men to Expoſe themſelves to the the conſtant Clamour and Reproach, which I doubt will always attend the Actions of thoſe that Fill this unlucky Office; nor can he, in Common Juſtice, think it Reaſonable, that others ſhould have the Benefit of that in Peace, which theſe Gentlemen have Toyl'd for in War; wherein, tho' their many Services are now forgotten, and Crimes daily laid to their Charge, yet I cannot find any Facts prov'd, able to Stagger me in my Opinion, that in Conſideration of the length of their Service, and Experience in the Buſineſs, they are the moſt proper Perſons to carry on the Affair with which they are at preſent Intruſted,</p>
+            <p>I cannot omit taking notice, that in ſeveral Pages of the Firſt part of this Gentleman's Book, he Inſinu<g ref="char:EOLhyphen"/>ates the Hardſhips done to the Seamen, during the late War, and particularly, in the turning them over, after having made one Foreign Voyage, into Ships bound on another, without ſuffering them to come on Shoar to tell their Grievances; to which I dare bold<g ref="char:EOLhyphen"/>ly ſay, that had there been more Inſtances of this
+<pb n="8" facs="tcp:33937:6"/>
+               <!-- PDF PAGE 24 -->kind, than he can be furniſh'd with, from thoſe Per<g ref="char:EOLhyphen"/>ſons whoſe Materials ſtuff up his Book, yet the fre<g ref="char:EOLhyphen"/>quent want of Men, and the many Services which the greatneſs of the Action requir'd them for, might ſuf<g ref="char:EOLhyphen"/>ficiently excuſe it. For my own part, I wiſh all Ima<g ref="char:EOLhyphen"/>ginable Happineſs and Satisfaction to theſe poor Peo<g ref="char:EOLhyphen"/>ple, who Wade thorough ſo many Difficulties and Hazards for the Bread they Eat; and I would not have them Deſpair of finding Advantages and Eaſe in Peace, which they could not Enjoy in War: But I ſhould be much to blame, did I not tell this their pretended Champion, that he ſhews himſelf rather an Enemy than a Friend to the Government, by publiſh<g ref="char:EOLhyphen"/>ing a Doctrine like this, in regard it may tend more to Its Prejudice than he is capable of Judging, though perhaps not to that Degree as he does wiſh.</p>
+            <p>Laſtly, As to what he Inſinuates relating to the Victualing the Fleet in the <hi>Streights,</hi> under Command of the Earl of <hi>Orford,</hi> and particularly that part where<g ref="char:EOLhyphen"/>in he ſays, It was call'd the Vinegar Fleet, by reaſon of the ſour Wine the Saylers drank; I refer my ſelf to any of theſe Men, he ſays were ſo ſourly Treated in that Expedition, whether the Wine which was daily delivered to them, was not as good, as what the Ad<g ref="char:EOLhyphen"/>miral himſelf, or the Captains drank at their own Ta<g ref="char:EOLhyphen"/>bles. Which being matter of Fact, I do not think it worth my while to expoſe any other parts of his Igno<g ref="char:EOLhyphen"/>rance or Malice on that Subject.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:33937:6"/>
+            <!-- PDF PAGE 24 -->
+         </div>
+      </body>
+   </text>
+</TEI>
